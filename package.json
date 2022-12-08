@@ -1,0 +1,11 @@
+{
+  "name": "codepractice",
+  "version": "1.0.0",
+  "description": "--- Day 2: Password Philosophy ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Antonio Ramon",
+  "license": "ISC"
+}
